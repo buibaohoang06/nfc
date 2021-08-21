@@ -67,6 +67,17 @@ body{
     border-radius: 10px 10px 10px 10px;
     text-align: center;
 }
+.contact-information #contact-wrapper:active{
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+}
 .contact-information #contact-wrapper p{
     line-height: 80px;
     color: black;
@@ -84,6 +95,17 @@ body{
     line-height: 80px;
     color: black;
 }
+.social-media #social-wrapper:active{
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+}
 .donate #donate-content{
     width: 300px;
     height: 80px;
@@ -94,4 +116,18 @@ body{
     text-align: center;
     line-height: 80px;
     color: black;
+}
+.donate #donate-content:active{
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    line-height: 80px;
+    color: black;
+}
+a{
+    text-decoration: none;
 }
